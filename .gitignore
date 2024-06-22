@@ -73,3 +73,6 @@ crashlytics-build.properties
 
 # Ignore VS folder
 /.vscode
+
+# Ignore copyright content
+/Resources
